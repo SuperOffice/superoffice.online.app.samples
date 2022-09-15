@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SuperOffice.DevNet.Online.AspNet.App", "SuperOffice.DevNet.Online.AspNet.App.csproj", "{A5F95D2F-0394-40F7-9DB4-12921A38C1F0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{0A0F09D5-18D0-4787-B0FF-B8532D91BDA8}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5F95D2F-0394-40F7-9DB4-12921A38C1F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5F95D2F-0394-40F7-9DB4-12921A38C1F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5F95D2F-0394-40F7-9DB4-12921A38C1F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5F95D2F-0394-40F7-9DB4-12921A38C1F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {22DEBCB0-3DCE-4547-9124-5A8944954594}
+	EndGlobalSection
+EndGlobal
