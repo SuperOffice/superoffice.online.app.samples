@@ -2,7 +2,7 @@
 
 Contains samples that demonstrate OpenID Connect authentication for SuperOffice CRM Online.
 
-All samples use the OpenID Connect certified library [IdentityModel.OidcClient](https://github.com/IdentityModel/IdentityModel.OidcClient).
+All samples use the certified OpenID Connect library [IdentityModel.OidcClient](https://github.com/IdentityModel/IdentityModel.OidcClient).
 
 Samples include:
 
